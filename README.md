@@ -1,2 +1,2 @@
 # redismq
-A amazing message queue with Redis
+An amazing message queue with Redis
